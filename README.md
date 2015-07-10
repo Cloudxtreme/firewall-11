@@ -1,2 +1,3 @@
 # firewall
-A bash script using iptables
+
+A collection of firewalls. Using iptables-save and iptables-restore.
