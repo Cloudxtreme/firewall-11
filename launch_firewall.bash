@@ -122,7 +122,7 @@ function fw_OUTPUT {
 function fw_INPUT {
     # from me to me
     $IPTABLES -A INPUT -i $iface_ME -j ACCEPT
-    $IPTABLES -A INPUT -s 128.0.0.0/8 -j ACCEPT
+    $IPTABLES -A INPUT -s 127.0.0.0/8 -j ACCEPT
     $IPTABLES -A INPUT -s 10.1.1.1 -j ACCEPT
 
     # SSH
