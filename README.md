@@ -4,9 +4,12 @@ This is a beginning not an end. This is a collection of Bash scripts for iptable
 
 ### Files
 ```
-docs - Some iptables documentation
-display_iptables.bash - Displays tables
-launch_firewall.bash - Example 1
-launch_flush.bash - Flush the tables
 README.md - this
+docs - Some iptables documentation
+
+display_iptables.bash - Displays tables
+launch_flush.bash - Flush the tables
+
+launch_firewall.bash - Example 1
+launch_firewall_v2.bash - Example 2, includes blocking IPs and logging
 ```
