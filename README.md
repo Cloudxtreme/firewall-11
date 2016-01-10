@@ -1,6 +1,6 @@
 ## Firewall
 
-This is a beginning not an end. This is a collection of Bash scripts for iptables. Sure, FWBuilder is nice. But if you're like me you WANT to understand as much as you can about something. Having something function is a failure. Understanding everything about it is success.
+These are a small collection of Bash scripts for iptables. Sure, FWBuilder is nice. But if you're like me you WANT to understand as much as you can about something. Having something function is a failure. Understanding everything about it is success.
 
 ### Files
 ```
